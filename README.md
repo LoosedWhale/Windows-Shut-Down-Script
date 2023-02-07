@@ -1,9 +1,11 @@
 # Windows Shut Down Script
 
 ## Description 
-Windows bat file for turning of your pc.
+Windows bat file for turning of your pc. \
+Alternatly for pranking your friends :wink:
 
-Made with batch:
+Made with batch: \
+<a href="https://microsoft.com" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/harwen/pleasant/256/MS-DOS-Batch-File-icon.png" alt="batch" width="40" height="40"/> </a>
 
 ## Code explaind
 ```
