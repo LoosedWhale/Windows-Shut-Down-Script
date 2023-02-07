@@ -1,1 +1,0 @@
-shutdown.exe -s -t 45 -c "HAHAHHAhA get trolled by the LoosedWhale"
